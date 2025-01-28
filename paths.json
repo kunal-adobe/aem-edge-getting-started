@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-doe-site-1/:/",
-    "/content/aem-doe-site-1/configuration:/.helix/config.json",
-    "/content/aem-doe-site-1/metadata:/metadata.json"
+    "/content/aem-doe-site-2/:/",
+    "/content/aem-doe-site-2/configuration:/.helix/config.json",
+    "/content/aem-doe-site-2/metadata:/metadata.json"
   ]
 }
